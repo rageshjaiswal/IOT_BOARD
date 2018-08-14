@@ -1,2 +1,2 @@
 # IOT_BOARD
-Our minor project synopsis
+Our minor project documentations
